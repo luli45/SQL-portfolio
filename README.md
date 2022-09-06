@@ -2,4 +2,4 @@ This is a repository I created to share on some projects I have done as part of 
 
 I also did a case study as part of the Google Data Analytics Certificate by Coursera. I shared the SQL code I did in MySQL Workbench. 
 
-I am sharing here the report to the Bellabeat Case Study.
+
