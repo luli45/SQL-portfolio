@@ -71,7 +71,7 @@ ADD DayofWeek Nvarchar(255) AFTER Date;
 UPDATE lb5.daily_steps
 SET DayofWeek = DATE_FORMAT(Date, '%W');
 
-
+# END
 
 
 
